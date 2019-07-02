@@ -2,9 +2,8 @@
 def printIndentJson():
     import json
     from pymongo import MongoClient
-    from sys import argv
     #variavel para controlar a quantidade de json printado de forma indentada
-    limit=argv[0]
+    limit=1
     #Cria uma conexão com o mongodb
     connection = MongoClient('localhost', 27017)
     #Cria um banco como nome 'json_stream_db' caso nao exista
