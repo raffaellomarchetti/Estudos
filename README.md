@@ -10,11 +10,11 @@ Responsável pelo processo de extração, formatação e exportação dos dados.
 #### MongoDB 4.0
 Responsável pelo armazenamento dos Json's.
 
-#### HTML
-Responsável pela estrutura e apresentação do site.
+#### **HTML
+Responsável pela estrutura e apresentação do site. (Não implementado)
 
-#### Charts.js
-Responsável por construir e apresentar o gráfico.
+#### **Charts.js
+Responsável por construir e apresentar os gráficos. (Não implementado)
 
 ## Vantagens
 A principal vantagem dessa arquitetura é o seu baixo custo, tanto de hardware quanto financeiro, pois são ferramentas leves e gratuitas. Outro ponto levado em consideração é a clareza das documentações e a facilidade de se encontrar bons materiais de estudo das mesmas.
